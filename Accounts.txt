@@ -1,6 +1,10 @@
 Account  Number Name
+<<<<<<< HEAD
+=======
+1000      Ion
+>>>>>>> featureA
 1003      Pavan
 1004      Pranay
 1005      Kausik
 1006      Rao
--------------------feature B(Deleted First Two Rows)
+
