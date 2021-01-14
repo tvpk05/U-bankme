@@ -1,6 +1,15 @@
 Account  Number Name
+<<<<<<< HEAD
+=======
+1000      Ion
+>>>>>>> 49077774bd09c33983ca34ceb7a15127a7c74084
 1003      Pavan
 1004      Pranay
 1005      Kausik
 1006      Rao
+<<<<<<< HEAD
 -------------------feature B(Deleted First Two Rows)
+=======
+
+--------------Deleted first two rows(In Feature A)
+>>>>>>> 49077774bd09c33983ca34ceb7a15127a7c74084
