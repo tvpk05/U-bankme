@@ -1,7 +1,8 @@
 Account  Number Name
-1001      ishwar
-1002      srishti
+1000      Ion
 1003      Pavan
 1004      Pranay
 1005      Kausik
 1006      Rao
+
+--------------Deleted first two rows(In Feature A)
